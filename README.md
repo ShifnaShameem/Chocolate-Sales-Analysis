@@ -1,4 +1,3 @@
-
 # Chocolate Sales Analysis Dashboard
 
 ## Project Overview
@@ -44,11 +43,3 @@ The dashboard explores multiple business questions related to revenue, profitabi
 Download the Excel workbook and open it in Microsoft Excel desktop to explore the PivotTables, PivotCharts, and slicers.
 
 
-
-
-
-
-
-
-## Project Type
-Excel Data Analytics Portfolio Project
