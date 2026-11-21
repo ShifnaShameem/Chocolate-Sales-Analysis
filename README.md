@@ -1,3 +1,4 @@
+
 # Chocolate Sales Analysis Dashboard
 
 ## Project Overview
@@ -39,8 +40,8 @@ The project uses five related tables:
 ## Business Requirements
 The dashboard explores multiple business questions related to revenue, profitability, product performance, discount analysis, store performance, customer behaviour, and monthly trends.
 
-
-
+## How to Use
+Download the Excel workbook and open it in Microsoft Excel desktop to explore the PivotTables, PivotCharts, and slicers.
 
 
 
